@@ -58,6 +58,17 @@ AI-powered geopolitical strategy simulation. Three great powers — **NATO, Russ
 
 ---
 
+## Founders
+
+Nobler Works is founded by **Patrick Wilson** and **Daniel Casale**.
+
+| Founder | LinkedIn | Website |
+|---------|----------|---------|
+| **Patrick Wilson** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson/) | [![Website](https://img.shields.io/badge/patricklukewilson.com-000000?logo=googlechrome&logoColor=white)](https://patricklukewilson.com) |
+| **Daniel Casale** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-j-casale/) | [![Website](https://img.shields.io/badge/danieljcasale.com-000000?logo=googlechrome&logoColor=white)](https://danieljcasale.com/) |
+
+---
+
 <div align="center">
 
 ### Built by [Nobler Works](https://noblerworks.com/)
