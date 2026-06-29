@@ -62,10 +62,19 @@ AI-powered geopolitical strategy simulation. Three great powers — **NATO, Russ
 
 Nobler Works is founded by **Patrick Wilson** and **Daniel Casale**.
 
-| Founder | LinkedIn | Website |
-|---------|----------|---------|
-| **Patrick Wilson** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson/) | [![Website](https://img.shields.io/badge/patricklukewilson.com-000000?logo=googlechrome&logoColor=white)](https://patricklukewilson.com) |
-| **Daniel Casale** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-j-casale/) | [![Website](https://img.shields.io/badge/danieljcasale.com-000000?logo=googlechrome&logoColor=white)](https://danieljcasale.com/) |
+### Patrick Wilson — CEO / Co-Founder / Architect / Designer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson/)
+[![Website](https://img.shields.io/badge/patricklukewilson.com-000000?logo=googlechrome&logoColor=white)](https://patricklukewilson.com)
+
+10 years in technology with go-to-market and full software development lifecycle experience. Previously a Solutions Architect at AWS, with Federal Partner, SLED, and commercial experience. B.S. in Information Systems and Operations Management from George Mason University. 5x marathon finisher, including Boston 2013 in under 3 hours.
+
+### Daniel Casale — CTO / Co-Founder / Solutions Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-j-casale/)
+[![Website](https://img.shields.io/badge/danieljcasale.com-000000?logo=googlechrome&logoColor=white)](https://danieljcasale.com/)
+
+B.A. in Information Technology and Informatics from Rutgers University. Holds CompTIA Security+, Google Cybersecurity, and AWS Cloud Practitioner certifications, plus Anthropic's Claude and agent-building credentials. Brings a unique blend of business, finance, and technical expertise to every engagement.
 
 ---
 
