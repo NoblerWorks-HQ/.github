@@ -36,7 +36,7 @@ We build first-party products and ship custom solutions for clients who need sof
 
 ### 🛰️ IRONSIGHT
 
-<a href="https://github.com/NoblerWorks-HQ/IRONSIGHT"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/Ironsight.png?v=2" alt="IRONSIGHT Dashboard"></a>
+<a href="https://github.com/NoblerWorks-HQ/IRONSIGHT"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/ironsight2.png" alt="IRONSIGHT Dashboard"></a>
 
 Real-time OSINT command center for monitoring the Middle East conflict. Aggregates open-source intelligence from **50+ sources** — news, Telegram, military tracking, financial markets, and more — into a single live dashboard. No API keys required. Completely free to run.
 
