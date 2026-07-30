@@ -74,6 +74,26 @@ AI-powered geopolitical strategy simulation. Three great powers — **NATO, Russ
 
 ---
 
+### ⛏️ Minecraft Agentic Builder
+
+<a href="https://github.com/NoblerWorks-HQ/minecraft-agentic"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/minecraft-agentic/master/docs/media/crew-castle-cherry-1600x900-30JUL2026.png" alt="Minecraft Agentic Builder - Stonewatch Keep, built block by block by the AI crew, captured live from the built-in browser viewer"></a>
+
+AI agents that build Minecraft worlds while you watch. Type one line - *"a haunted mansion with a graveyard"* - and an LLM designs it in building primitives, then a crew of **four bots with distinct personalities** (mason, carpenter, decorator, landscaper) splits the work and constructs it block by block, streamed **live to your browser**. No Minecraft account needed, and **no API key required** - 13 procedurally generated builds ship free, or bring a free Gemini key (Claude, GPT, and Ollama work too) for custom prompts.
+
+The crew checks its own work: a repair loop re-places what the world refused, and an optional vision critic looks at screenshots of the finished build and patches what it sees.
+
+[![GitHub stars](https://img.shields.io/github/stars/NoblerWorks-HQ/minecraft-agentic?logo=github&label=Stars&color=yellow)](https://github.com/NoblerWorks-HQ/minecraft-agentic/stargazers)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Claude](https://img.shields.io/badge/Anthropic%20Claude-D4A574?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+
+**[→ Watch the crew build](https://github.com/NoblerWorks-HQ/minecraft-agentic)**
+
+---
+
 ## Founders
 
 Nobler Works is founded by **Patrick Wilson** and **Daniel Casale**.
@@ -102,6 +122,6 @@ We build OSINT tools, real-time dashboards, AI simulations, and custom software 
 
 [**noblerworks.com →**](https://noblerworks.com/) &nbsp;·&nbsp; [**Shop →**](https://noblerworks.com/shop/)
 
-<sub>OSINT tools · open-source intelligence · real-time dashboards · AI strategy simulation · cybersecurity software · cloud consulting · AWS · Google Cloud · Azure · Terraform · Next.js · TypeScript · custom software development</sub>
+<sub>OSINT tools · open-source intelligence · real-time dashboards · AI strategy simulation · AI agents · multi-agent systems · cybersecurity software · cloud consulting · AWS · Google Cloud · Azure · Terraform · Next.js · TypeScript · custom software development</sub>
 
 </div>
