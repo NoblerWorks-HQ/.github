@@ -9,7 +9,6 @@
 We build first-party products and ship custom solutions for clients who need software that thinks. If you want something like the projects below built for your domain, [get in touch](https://noblerworks.com/).
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks.com/)
-[![Shop](https://img.shields.io/badge/Shop-2EA44F?style=for-the-badge&logo=shopify&logoColor=white)](https://noblerworks.com/shop/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nobler_Works)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoblerWorks)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noblerworks)
@@ -120,7 +119,7 @@ B.A. in Information Technology and Informatics from Rutgers University. Holds Co
 
 We build OSINT tools, real-time dashboards, AI simulations, and custom software for clients who need to move fast and see clearly.
 
-[**noblerworks.com →**](https://noblerworks.com/) &nbsp;·&nbsp; [**Shop →**](https://noblerworks.com/shop/)
+[**noblerworks.com →**](https://noblerworks.com/)
 
 <sub>OSINT tools · open-source intelligence · real-time dashboards · AI strategy simulation · AI agents · multi-agent systems · cybersecurity software · cloud consulting · AWS · Google Cloud · Azure · Terraform · Next.js · TypeScript · custom software development</sub>
 
