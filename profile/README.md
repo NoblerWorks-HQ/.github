@@ -48,7 +48,9 @@ Live intel feed, auto-translated Telegram OSINT, an interactive theater map with
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)](https://leafletjs.com/)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
-**[→ Explore IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)**
+[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks-hq.github.io/IRONSIGHT/)
+
+**[→ Visit the IRONSIGHT website](https://noblerworks-hq.github.io/IRONSIGHT/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/IRONSIGHT)
 
 ---
 
@@ -69,7 +71,9 @@ AI-powered geopolitical strategy simulation. Three great powers — **NATO, Russ
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
-**[→ Play War Games](https://github.com/NoblerWorks-HQ/WarGames)**
+[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks-hq.github.io/WarGames/)
+
+**[→ Visit the War Games website](https://noblerworks-hq.github.io/WarGames/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/WarGames)
 
 ---
 
@@ -90,6 +94,19 @@ The crew checks its own work: a repair loop re-places what the world refused, an
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
 **[→ Watch the crew build](https://github.com/NoblerWorks-HQ/minecraft-agentic)**
+
+---
+
+### 📖 Free guides and tutorials from our founders
+
+| Project | | |
+|---|---|---|
+| **[Cloud, Data, AI & Security: Zero to Hero](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)** | 149 cert study guides across 27 providers, 53 plain-English concepts, 15 hands-on builds | **[Website →](https://patrickwiloak.github.io/cloud-data-ai-security-zero-to-hero/)** |
+| **[Everything AI, Summarized](https://github.com/PatrickWiloak/genai-research-papers-summarized)** | 156 landmark AI papers and 31 explainers in plain language | **[Website →](https://patrickwiloak.github.io/genai-research-papers-summarized/)** |
+| **[Bedrock RAG with S3 Vectors](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial)** | Deploy document Q&A on AWS Bedrock in under 10 minutes (CDK or Terraform) | [Repo →](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) |
+| **[Proper Training for Distance Running](https://github.com/PatrickWiloak/proper-distance-running-training-guidance)** | Evidence-based running guide with twelve 5K-to-marathon plans | **[Read online →](https://achilles.fit/guides)** |
+
+**Our products:** [gitGood.dev](https://gitgood.dev) - train for the tech role, not just the interview · [Achilles.fit](https://achilles.fit) - adaptive training plans with an AI coach
 
 ---
 
