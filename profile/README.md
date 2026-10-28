@@ -18,6 +18,24 @@ We build first-party products and ship custom solutions for clients who need sof
 
 ---
 
+## Our products
+
+<div align="center">
+
+<a href="https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=banner"><img src="https://gitgood.dev/og-image.png" alt="gitGood.dev" width="270"></a>
+<a href="https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=banner"><img src="https://semantix.chat/og/home.png" alt="Semantix.chat" width="270"></a>
+<a href="https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=banner"><img src="https://achilles.fit/og/home.png" alt="Achilles.fit" width="270"></a>
+
+</div>
+
+| Product | |
+|---|---|
+| 🎯 **[gitGood.dev](https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table)** | Train for the tech role, not just the interview - practice questions, coding challenges, system design, AI mock interviews and cert practice exams for every technologist |
+| 🗣️ **[Semantix.chat](https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table)** | Don't memorize a language, have a conversation in it - an immersive AI language tutor with spaced repetition and a levelled path |
+| 🏃 **[Achilles.fit](https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=org-profile&utm_content=table)** | Your personal AI fitness coach - deterministic training plans for running, strength, cycling and swimming, and an AI coach that reads them |
+
+---
+
 <div align="center">
 
 **Multi-cloud architecture, deployment & DevOps** — we design, build, and ship on every major cloud.
@@ -48,9 +66,9 @@ Live intel feed, auto-translated Telegram OSINT, an interactive theater map with
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)](https://leafletjs.com/)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
-[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks-hq.github.io/IRONSIGHT/)
+[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ironsight.noblerworks.com/)
 
-**[→ Visit the IRONSIGHT website](https://noblerworks-hq.github.io/IRONSIGHT/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/IRONSIGHT)
+**[→ Visit the IRONSIGHT website](https://ironsight.noblerworks.com/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/IRONSIGHT)
 
 ---
 
@@ -71,9 +89,9 @@ AI-powered geopolitical strategy simulation. Three great powers — **NATO, Russ
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 
-[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks-hq.github.io/WarGames/)
+[![Visit the website](https://img.shields.io/badge/Visit_the_website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wargames.noblerworks.com/)
 
-**[→ Visit the War Games website](https://noblerworks-hq.github.io/WarGames/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/WarGames)
+**[→ Visit the War Games website](https://wargames.noblerworks.com/)** · [Source on GitHub](https://github.com/NoblerWorks-HQ/WarGames)
 
 ---
 
@@ -101,12 +119,12 @@ The crew checks its own work: a repair loop re-places what the world refused, an
 
 | Project | | |
 |---|---|---|
-| **[Cloud, Data, AI & Security: Zero to Hero](https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero)** | 149 cert study guides across 27 providers, 53 plain-English concepts, 15 hands-on builds | **[Website →](https://patrickwiloak.github.io/cloud-data-ai-security-zero-to-hero/)** |
-| **[Everything AI, Summarized](https://github.com/PatrickWiloak/genai-research-papers-summarized)** | 156 landmark AI papers and 31 explainers in plain language | **[Website →](https://patrickwiloak.github.io/genai-research-papers-summarized/)** |
+| 📚 **[AI Zero to Hero](https://github.com/PatrickWiloak/ai-zero-to-hero)** | Everything AI in one place: learn, use at work, build, govern, get hired - plus 156 landmark papers in plain language | **[Website →](https://ai.noblerworks.com/)** |
+| ☁️ **[Cloud Zero to Hero](https://github.com/PatrickWiloak/cloud-zero-to-hero)** | AWS, Azure, GCP, Kubernetes, DevOps and FinOps: 72 cert guides, concepts and labs | **[Website →](https://cloud.noblerworks.com/)** |
+| 🗄️ **[Data Zero to Hero](https://github.com/PatrickWiloak/data-zero-to-hero)** | Data engineering, databases, Snowflake, Databricks, Kafka: cert guides and paths | **[Website →](https://data.noblerworks.com/)** |
+| 🔐 **[Security Zero to Hero](https://github.com/PatrickWiloak/security-zero-to-hero)** | CISSP, Security+, cloud security, compliance and zero trust | **[Website →](https://security.noblerworks.com/)** |
 | **[Bedrock RAG with S3 Vectors](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial)** | Deploy document Q&A on AWS Bedrock in under 10 minutes (CDK or Terraform) | [Repo →](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) |
 | **[Proper Training for Distance Running](https://github.com/PatrickWiloak/proper-distance-running-training-guidance)** | Evidence-based running guide with twelve 5K-to-marathon plans | **[Read online →](https://achilles.fit/guides)** |
-
-**Our products:** [gitGood.dev](https://gitgood.dev) - train for the tech role, not just the interview · [Achilles.fit](https://achilles.fit) - adaptive training plans with an AI coach
 
 ---
 
